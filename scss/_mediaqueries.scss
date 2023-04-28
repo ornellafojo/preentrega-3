@@ -77,10 +77,11 @@
             width: 80%;
         }
     }
-    .footer_text {
-        width: 95%;
+    .footer {
+        .footer_text {
+            width: 95%;
+        }
     }
-
 }
 @media screen and (min-width: 900px) {
     .equipo {
